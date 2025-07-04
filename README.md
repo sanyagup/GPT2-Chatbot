@@ -2,11 +2,11 @@
 
 # Fine-Tuned GPT-2 for Medical and Conversational Data
 
-This repository contains code for fine-tuning the GPT-2 model on a combined dataset of conversational and medical text. The project was originally developed during my internship, where I worked on a GPT-2 based chatbot with a focus on medical applications. *Note: Due to privacy reasons, the original medical data is not included in this repository.*
+This repository contains code for fine-tuning the GPT-2 model on a combined dataset of conversational and medical text. The project was originally developed during my internship, where I worked on a GPT-2-based chatbot with a focus on medical applications. *Note: Due to privacy reasons, the original medical data is not included in this repository.*
 
 ## Overview
 
-The goal of this project is to create a GPT-2 model that can generate coherent responses to prompts incorporating both general conversation and medical context. Key features include:
+The goal of this project is to create a GPT-2 model that can generate coherent responses to prompts, incorporating both general conversation and medical context. Key features include:
 - **Fine-tuning GPT-2:** Utilizing Hugging Face's Transformers library.
 - **Data Labeling:** Preparing and labeling text data with custom tags.
 - **Response Generation:** A function to generate responses based on input prompts.
@@ -92,5 +92,3 @@ This repository serves as a minimal recreation of my previous work. The original
 This project is for educational purposes only. The fine-tuned model uses publicly available GPT-2 weights and custom data; however, some data or configurations may be subject to privacy or proprietary restrictions. Use responsibly.
 
 ---
-
-Feel free to modify this README to better reflect your project specifics. Let me know if you need any further changes!
